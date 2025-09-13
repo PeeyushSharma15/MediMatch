@@ -81,7 +81,7 @@ MediMatch addresses these challenges through:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/satwikkaushik/MediMatch.git
+git clone https://github.com/PeeyushSharma15/MediMatch.git
 ```
 
 2. Install dependencies
@@ -136,15 +136,3 @@ We welcome contributions to improve MediMatch! Please:
 3. Commit your changes
 4. Push to the branch
 5. Submit a pull request
-
-## 👥 Team
-
-- **Backend Developed by**: [Satwik Kaushik](https://github.com/satwikkaushik)
-- **AI/ML Developed by**: [Sujal Maheshwari](https://github.com/sujal-maheshwari2004)
-- **Frontend Developed by**: [Khushi Kumari Jha](https://github.com/khushijha-kj)
-
----
-
-<div align="center">
-  Made with ❤️ for better healthcare
-</div>
